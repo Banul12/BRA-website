@@ -77,7 +77,7 @@ a, a:hover, a:active, a:focus {
 	background: #242c42;
 }
 .bg-white {
-	background-color: #ffffff;
+	background-color: #841010;
 	color: #3d4051;
 }
 i {
@@ -124,7 +124,7 @@ section {
 	padding: 80px 0;
 }
 #scrollUp {
-	background: #fff;
+	background: #ffffff;
 	border-radius: 50%;
 	bottom: 100px;
 	color: #034a6a;
