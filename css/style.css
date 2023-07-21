@@ -52,14 +52,14 @@ body {
 	font-size: 15px;
 	line-height: 1.57143;
 	font-weight: 400;
-	color: #2d2e2e;
+	color: #006106;
 }
 h1, h2, h3, h4, h5, h6 {
 	font-family: 'Muli', sans-serif;
 	margin-top: 0;
 }
 a {
-	color: #2d2e2e;
+	color: #006106;
 	transition: all 0.3s ease 0s;
 }
 a:hover {
@@ -74,11 +74,11 @@ a, a:hover, a:active, a:focus {
 	transition: all 0.3s ease 0s;
 }
 .bg-dark-1 {
-	background: #242c42;
+	background: #006106;
 }
 .bg-white {
-	background-color: #841010;
-	color: #3d4051;
+	background-color: #ffffff;
+	color: #006106;
 }
 i {
 	transition: all 0.4s ease-in-out 0s;
@@ -127,7 +127,7 @@ section {
 	background: #ffffff;
 	border-radius: 50%;
 	bottom: 100px;
-	color: #034a6a;
+	color: #006106;
 	display: block;
 	font-size: 16px;
 	height: 46px;
@@ -234,7 +234,7 @@ textarea, input[type="text"], input[type="password"], input[type="datetime"], in
 	vertical-align: middle;
 	-webkit-transform: perspective(1px) translateZ(0);
 	transform: perspective(1px) translateZ(0);
-	box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+	box-shadow: 0 0 1px rgba(9, 117, 66, 0);
 	position: relative;
 	-webkit-transition-property: color;
 	transition-property: color;
@@ -256,7 +256,7 @@ textarea, input[type="text"], input[type="password"], input[type="datetime"], in
 	left: 0;
 	right: 0;
 	bottom: 0;
-	background: #242c42;
+	background: #24423b;
 	-webkit-transform: scaleX(0);
 	transform: scaleX(0);
 	-webkit-transform-origin: 0 50%;
@@ -283,7 +283,7 @@ textarea, input[type="text"], input[type="password"], input[type="datetime"], in
 ================================================
 */
 #dvLoading {
-	background: url(../images/loader.gif) no-repeat center center #fff;
+	background: url(../images/loader.gif) no-repeat center center #006106;
 	width: 100%;
 	height: 100%;
 	position: fixed;
@@ -301,7 +301,7 @@ textarea, input[type="text"], input[type="password"], input[type="datetime"], in
 	height: 51px;
 	line-height: 51px;
 	position: relative;
-	background-color: #002739;
+	background-color: #006106;
 	color: #ffffff;
 }
 .top_bar_icon {
@@ -367,7 +367,7 @@ textarea, input[type="text"], input[type="password"], input[type="datetime"], in
 	min-width: 26px;
 }
 .top_bar ul li.facebook-icon a {
-	background-color: #385da9;
+	background-color: #38a97c;
 }
 .top_bar ul li.twitter-icon a {
 	background-color: #33ccff;
@@ -468,7 +468,7 @@ nav.main-menu ul.menu li ul.mega-submenu li a {
 	font-family: 'Muli', sans-serif;
 }
 nav.main-menu ul.menu li ul.mega-submenu li:hover > a, nav.main-menu ul.menu li ul.mega-submenu li:hover > a, nav.main-menu ul.menu li ul.mega-submenu li:hover > a, nav.main-menu ul.menu li ul.mega-submenu li:hover > a {
-	background: #034a6a;
+	background: #006106;
 	color: #fff !important;
 }
 ul.menu-col li a {
@@ -1025,7 +1025,7 @@ ul.menu-col li a:hover, ul.menu-col li a:focus {
 	right: 0px;
 	bottom: 0px;
 	opacity: 0.85;
-	background-color: #034a6a;
+	background-color: #006106;
 	z-index: -1;
 }
 .cta-sec {
@@ -1041,7 +1041,7 @@ ul.menu-col li a:hover, ul.menu-col li a:focus {
 .countr_text i {
 	font-size: 50px;
 	margin: 0 0 20px;
-	color: #034a6a;
+	color: #006106;
 }
 .phone_number h5 {
 	letter-spacing: 1px;
@@ -1086,7 +1086,7 @@ ul.menu-col li a:hover, ul.menu-col li a:focus {
 	display: inline-block;
 	width: 80px;
 	height: 80px;
-	background: #0C5ADB;
+	background: #006106;
 	border-radius: 100%;
 	line-height: 80px;
 }
